@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T13:47:03.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1yR7tBFewvmokPZySSmv" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:14:03.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xRbCKrZpGoO8ccRZgVat" version="20.0.1" type="github">
   <diagram id="zXjGIP4TOeGqvmojKyh3" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,18 @@
         </mxCell>
         <mxCell id="-uKDtlHIu4eDwmsC0OMv-36" value="Waste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mt3hdiAsSk07jvFCkP4t-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mt3hdiAsSk07jvFCkP4t-2" value="&lt;h1 style=&quot;text-align: justify;&quot;&gt;Meet specification&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;The finished product is checked due to proper packaging (sealing), quality of onion or sending timeframe (we can send only in 4 days after production). If everything is fine we are sending to customer. Otherwise we are creating rework.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mt3hdiAsSk07jvFCkP4t-4" value="&lt;h1 style=&quot;text-align: justify;&quot;&gt;Rework&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The product is taken&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;out of customer packaging and placing in a raw material bin (i.e. back to raw&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;material physical state). We are creating rework ticket with all information about GRN grower etc.&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="410" width="207" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mt3hdiAsSk07jvFCkP4t-6" value="&lt;h1 style=&quot;text-align: justify;&quot;&gt;Managers decision&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;When the rework is created Management is deciding if the rework can come back on the line to improve quality and use for different customer product or sent to waste. The rework ticket needs to be able to be scanned to a production line (which we can do it now) or being sold as industrial or waste sale.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="490" width="235" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
